@@ -1,18 +1,17 @@
 body{
-  margin: 0;
-  padding:0;
+  margin: auto;
   text-align: center;
   font-family: 'Playfair Display', serif;
-  min-width: 500px;
   max-width: 900px;
 
 }
 div{
-  padding:20px;
+  padding:0;
   margin: 0;
   background-color: #D3DEDC;
   padding-top:20px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
+
 
 
 }
@@ -68,7 +67,7 @@ h3{
 }
 p{
   margin: auto;
-  padding-top: 20px;
+  padding: 20px;
   text-align: justify;
   width: 80%;
   color: #92A9BD;
@@ -97,7 +96,6 @@ hr{
 ul{
   color: #7C99AC;
   list-style: circle;
-  font-size: 150%;
   list-style-position: inside;
   padding: 20px;
 
@@ -221,8 +219,6 @@ li{
   background-color: #146356;
   height: 50px;
   margin: auto;
-  padding-bottom: 50px;
-
 
 }
 .profile-img{
